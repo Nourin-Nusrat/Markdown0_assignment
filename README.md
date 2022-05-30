@@ -4,8 +4,7 @@
 ##Some Math Equation
 <p align = "center"> First equation:$ Y =Xβ+ϵy, ∀X $
 <p align = "center">Second equation:$ X=Zγ+ϵx $<br/>
-$$ f1(ω)=σ^2 $$
-$$ 2π^{, ω∈[−π,π]} $$
+$$ f1(ω)={σ^2}/{2π},ω∈[−π,π] $$
 
 |Syntax | Description | Test Text |
 |:---------:|:-----------:|:----------:|
