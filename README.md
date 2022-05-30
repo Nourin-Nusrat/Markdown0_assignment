@@ -2,10 +2,10 @@
 #Assignment 0: Markdown
 ##You have to write markdown
 ##Some Math Equation
-<p align = "center"> First equation: $ Y =Xβ+ϵy, ∀X $
-$$ Second equation: X=Zγ+ϵx $$
+<p align = "center">First equation:$ Y =Xβ+ϵy, ∀X $
+<p align = "center">Second equation:$ X=Zγ+ϵx $
 $$ f1(ω)=σ^2 $$
-$$ 2π,^(ω∈[−π,π]) $$
+$$ 2π^{,ω∈[−π,π]} $$
 
 |Syntax | Description | Test Text |
 |:---------:|:-----------:|:----------:|
