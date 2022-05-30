@@ -2,7 +2,7 @@
 #Assignment 0: Markdown
 ##You have to write markdown
 ##Some Math Equation
-<p align = "center"><p>" "<p/>First equation: $ Y=Xβ+ϵy, ∀X $
+<p align = "center"><p> First equation: $ Y=Xβ+ϵy, ∀X $<p/>
 <p align = "center">Second equation: $ X=Zγ+ϵx $<br/>
 $$ f1(ω)={σ^2}/{2π},ω∈[−π,π] $$
 
