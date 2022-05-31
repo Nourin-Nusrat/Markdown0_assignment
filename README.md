@@ -2,8 +2,8 @@
 #Assignment 0: Markdown
 ##You have to write markdown
 ##Some Math Equation
-<p align = "center"> First equation: $ Y=Xβ+ϵy, ∀X $
-<p align = "center">Second equation: $ X=Zγ+ϵx $<br/>
+<p align = "center"> First equation: $ Y=Xβ+ϵ_y, ∀X $
+<p align = "center">Second equation: $ X=Zγ+ϵ_x $<br/>
 $$ f_{1}(ω)=\frac{σ^2}{2π},ω∈[−π,π] $$
 
 1.  First item a. first sub-item A) first sub-sub-item b.second sub-item
@@ -17,12 +17,15 @@ $$ f_{1}(ω)=\frac{σ^2}{2π},ω∈[−π,π] $$
         - first sub-sub-item
     - second sub-item
 
-<img src = "https://github.com/Nourin-Nusrat/Markdown0_assignment/blob/main/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f69636f6e6b612f6d656f772f3235362f6361742d636167652d69636f6e2e706e67.png" 
+<p>
+<img src = "https://github.com/Nourin-Nusrat/Markdown0_assignment/blob/main/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f69636f6e6b612f6d656f772f3235362f6361742d636167652d69636f6e2e706e67.png" alt="text" width = "200" height = "200">
+</p>
+
 ```
 library(tidyverse)
 library(mdsr)
 SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +
-geom_density() + theme_minimal() + labs(title = "SAT Writing Scores") 
+geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
 ```
 
 # Table with alignment
