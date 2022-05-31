@@ -1,5 +1,4 @@
 # Assignment 0: Markdown
-## You have to write markdown
 ### Some Math Equation
 <p align = "center"> First equation: $ Y=Xβ+ϵ_y, ∀X $
 <p align = "center">Second equation: $ X=Zγ+ϵ_x $<br/>
